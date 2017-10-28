@@ -229,6 +229,13 @@ data:       '',
 msg:        'Game Token Sale'
 },
 {
+// ImmuneCoin Token Sale
+to:         '0xe3831c5A982B279A198456D577cfb90424cb6340',
+gasLimit:   200000,
+data:       '',
+msg:        'ImmuneCoin Token Sale. Thank you for your support. '
+},
+{
 // Skrilla Token Sale
 to:         '0x4c382F8E09615AC86E08CE58266CC227e7d4D913',
 gasLimit:   200000,
